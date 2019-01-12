@@ -1,0 +1,2 @@
+# hwProduct
+exercise 3
